@@ -13,6 +13,6 @@ This knowledge in this bootcamp as below
 9. Python for Data Analyst
 
 # Contact
-Website: (https://iceoryjourney.wordpress.com/)
+Website: [www.iceoryjourney.com](https://iceoryjourney.wordpress.com/)
 
 Email: nuttanun.chaiprasitpol@gmail.com
