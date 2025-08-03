@@ -21,3 +21,5 @@ ggplot(data = delay_impact,
        y = "Avearge arrive time delay (min)",
        caption = "Using library(nycflights23) for analyst") +
   theme_minimal()
+
+## Ans สายการบินของ flight F9 มาเลทที่สุด >> ลูกค้าต้องรอนานกว่าสายการบินอื่น ๆ ส่งผลให้ในอนาคตอาจทำให้คนมาใช้บริการลดลง
