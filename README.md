@@ -1,6 +1,6 @@
 # datascience_bootcamp11_datarockie
 Data Science Bootcamp Projects
-รวบรวมสิ่งต่าง ๆ ที่เคยทำใน bootcamp ไว้ที่นี่เลยค่า
+[รวบรวมสิ่งต่าง ๆ ที่เคยทำใน bootcamp ไว้ที่นี่เลยค่า]
 
 This knowledge in this bootcamp as below
 1. Google Sheet and Excel
