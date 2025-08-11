@@ -1,4 +1,5 @@
-from random import choice
+from random import choice # ต้อง import ก่อน ถึงจะใช้ function random ค่าใน list ได้
+
 def game():
     #introduction
     print("Welcome to Pao Ying Chub game")
